@@ -5,3 +5,4 @@ Taller 3> https://github.com/luisverlet/30ejercicios
 
 Segundo corte
 Taller 1> https://github.com/luisverlet/taller1segundocorte
+Taller 2> https://github.com/luisverlet/taller13demarzo
